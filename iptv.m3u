@@ -1,0 +1,177 @@
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz"
+
+# M3UPT.com - IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
+
+# 📺 TV
+
+#EXTINF:-1 group-title="TV" tvg-id="GLOBO NEWS.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028392.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PREMIERE CLUBES HD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE CLUBES HD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/76266.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PREMIERE 2 HD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/76267.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PREMIERE 3 HD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/76268.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PREMIERE 4 HD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 4 HD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/76269.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BAND HD.pt" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028387.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SPORTV HD" tvg-logo="http://go4.pw/AMERICA/BRASIL/SPORTVHD.png",SPORTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/76310.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="ESPN BRASIL HD.fr" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN BRASIL HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/76318.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BAND SPORTS HD.pt" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://yolomax.pro/live/hichamfaik/2U9GANK/76287.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BAND NEWS UHD.pt" tvg-logo="http://go4.pw/BRAZIL/bandnews.png",BAND NEWS UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/76243.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="ESPN UHD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028464.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PREMIERE CLUBES UHD.pt" tvg-logo="http://go4.pw/BRAZIL/PREMIERE.png",PREMIERE CLUBES UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028479.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SPORTV UHD.pt" tvg-logo="http://go4.pw/BRAZIL/SPORTV.png",SPORTV UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028480.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="GLOBO SP UHD.pt" tvg-logo="http://go4.pw/BRAZIL/globo.png",GLOBO SP UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028405.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TELECINE PREMIUM UHD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PREMIUM UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028525.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP 1 UHD.pt" tvg-logo="http://go4.pw/PORTUGAL/R1.png",RTP 1 UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030723.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BAND NEWS UHD.pt" tvg-logo="http://go4.pw/BRAZIL/bandnews.png",BAND NEWS UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028388.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SBT UHD.pt" tvg-logo="http://go4.pw/BRAZIL/SBT.png",SBT UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028425.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SPORTV 2 UHD.pt" tvg-logo="http://go4.pw/BRAZIL/SPORTV2.png",SPORTV 2 UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028481.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SPORTV 3 UHD.pt" tvg-logo="http://go4.pw/BRAZIL/SPORTV3.png",SPORTV 3 UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028482.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="HBO FAMILY UHD.pt" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png",HBO FAMILY UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028508.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="HBO PLUS UHD.pt" tvg-logo="http://go4.pw/LATINO/HBO+.png",HBO PLUS UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028509.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="HBO SIGNATURE UHD.pt" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV",HBO SIGNATURE UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028510.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="MAX UHD.pt" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png",MAX UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028512.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="STUDIO UNIVERSAL UHD.pt" tvg-logo="http://go4.pw/Mexico/studio.png",STUDIO UNIVERSAL UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028518.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="PARAMOUNT UHD.pt" tvg-logo="http://go4.pw/USA/SD/11.png",PARAMOUNT UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028516.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TELECINE PIPOCA UHD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PIPOCA UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028524.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TELECINE CULT UHD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE CULT UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028522.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TELECINE ACTION UHD.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE ACTION UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028521.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="GLOBO NSC FLORIANOPOLIS HD.pt" tvg-logo="http://go4.pw/BRAZIL/globo.png",GLOBO NSC FLORIANOPOLIS HD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028391.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TNT.pt" tvg-logo="http://go4.pw/USA/SD/42.png",TNT
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028434.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="CNN BRASIL.pt" tvg-logo="http://go4.pw/BRAZIL/CNNBRAZIL.png",CNN BRASIL
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028498.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="MEGAPIX.pt" tvg-logo="http://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png",MEGAPIX
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/76295.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="UNIVERSAL CHANNEL.pt" tvg-logo="http://go4.pw/SOMALIA/UNIVERSAL_TV.png",UNIVERSAL CHANNEL
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1028528.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TF1 4K HDR.pt" tvg-logo="",TF1 4K HDR
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1044109.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="FRANCE 2 4K HDR.pt" tvg-logo="",FRANCE 2 4K HDR
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1044110.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BEIN SPORTS 1 ULTRA 4K.pt" tvg-logo="",BEIN SPORTS 1 ULTRA 4K
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1023969.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI UHD.pt" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/TVI_HD.png",TVI UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030737.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DISCOVERY CHANNEL UHD.pt" tvg-logo="http://go4.pw/AFRICA/CANAL+/Discovery-Channel.png",DISCOVERY CHANNEL UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030853.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="NATIONAL GEOGRAPHIC UHD.pt" tvg-logo="http://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png",NATIONAL GEOGRAPHIC UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030850.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="AXN BLACK UHD.pt" tvg-logo="http://go4.pw/germany/axnb.png",AXN BLACK UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030843.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCINE TOP UHD.pt" tvg-logo="http://go4.pw/PORTUGAL/Tvc.png",TVCINE TOP UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030829.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCINE TOP UHD.pt" tvg-logo="http://go4.pw/PORTUGAL/Tvc.png",TVCINE TOP UHD
+#EXTVLCOPT:http-user-agent=Firefox
+http://yolomax.pro/live/hichamfaik/2U9GANK/1030829.ts
