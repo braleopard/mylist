@@ -1,0 +1,87 @@
+#EXTM3U url-tvg="http://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+# NOTICIAS
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="GLOBO NEWS" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+http://dzcdn.vood.top/hls/479_.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="BAND NEWS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140492.ts
+
+# ESPORTE
+
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png",ESPN
+http://45.143.220.55/espn/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN2" tvg-logo="https://acstatic.co/logos/ESPORTE2.png",ESPN2
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140250.ts
+
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN3" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png",ESPN3
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140253.ts
+
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN4" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png",ESPN4
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140256.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="ESPN 5 FHD",group-title="ESPORTE",ESPN 5
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140259.ts
+
+#EXTINF:-1 tvg-logo="http://dns.idealtv.xyz:80/live/images/6d0b98af42e099c8cacbef9cf0eb259e.png",tvg-id="SPORTV",group-title="ESPORTE",SPORTV
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877594.ts
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png",tvg-id="SPORTV 2",group-title="ESPORTE",SPORTV 2
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877592.ts
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png",tvg-id="SPORTV 3",group-title="ESPORTE",SPORTV 3
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877593.ts
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/primeboxbrazil.png",tvg-id="PREMIERE 1",group-title="ESPORTE",PREMIERE 1
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712138.ts
+
+# FILMES
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png",tvg-id="HBO",group-title="ESPORTE",HBO
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140469.ts
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png",tvg-id="HBO 2",group-title="ESPORTE",HBO 2
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140464.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfqBJwX/PREMIUM.png",tvg-id="TELECINE",group-title="ESPORTE",TELECINE
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2262996.ts
+
+#EXTINF:-1 tvg-logo="http://dns.idealtv.xyz:80/live/images/d5cdaf2d0e2da2f1be3dfca20cc88dca.png",tvg-id="TELECINE CULT",group-title="ESPORTE",TELECINE CULT
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2262987.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 1",group-title="ESPORTE",CINE SKY 1
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316610.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 2",group-title="ESPORTE",CINE SKY 2
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316611.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 3",group-title="ESPORTE",CINE SKY 3
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316612.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 4",group-title="ESPORTE",CINE SKY 4
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316613.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 5",group-title="ESPORTE",CINE SKY 5
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316614.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="CINE SKY 6",group-title="ESPORTE",CINE SKY 6
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/2316615.ts
+
+# DESENHOS
+
+#EXTINF:-1 tvg-logo="",tvg-id="MR MAGOO",group-title="DESENHOS",MR MAGOO
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877706.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="FLINTSTONES",group-title="DESENHOS",FLINTSTONES
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877713.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="PAPA LEGUAS",group-title="DESENHOS",PAPA LEGUAS
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877724.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="PEPE LEGAL",group-title="DESENHOS",PEPE LEGAL
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877727.ts
+
+#EXTINF:-1 tvg-logo="",tvg-id="PEPE LEGAL",group-title="DESENHOS",PEPE LEGAL
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877727.ts
