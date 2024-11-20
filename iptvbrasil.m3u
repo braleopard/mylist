@@ -1,0 +1,36 @@
+#EXTM3U url-tvg="http://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+# ITALIA
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI 1" tvg-logo="http://go4.pw/ITALY/_Rai1.png",IT - RAI 1
+http://yolomax.pro/live/hichamfaik/2U9GANK/68441.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI 2" tvg-logo="http://go4.pw/ITALY/_Rai2.png",IT - RAI 2
+http://yolomax.pro/live/hichamfaik/2U9GANK/68442.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI 3" tvg-logo="http://go4.pw/ITALY/Rai-3.png",IT - RAI 3
+http://yolomax.pro/live/hichamfaik/2U9GANK/68443.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI 4" tvg-logo="http://go4.pw/ITALY/_Rai4.png",IT - RAI 4
+http://yolomax.pro/live/hichamfaik/2U9GANK/68472.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI 5" tvg-logo="http://go4.pw/ITALY/rai5.png",IT - RAI 5
+http://yolomax.pro/live/hichamfaik/2U9GANK/68473.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RAI NEWS 24" tvg-logo="http://go4.pw/EUROPE/ITALY/RAINEWS24HD-1.png",IT - RAI NEWS 24
+http://yolomax.pro/live/hichamfaik/2U9GANK/68612.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - RETE 4" tvg-logo="http://go4.pw/EUROPE/ITALY/RETE4-1.png",IT - RETE 4
+http://yolomax.pro/live/hichamfaik/2U9GANK/68444.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - CANALE 5" tvg-logo="http://go4.pw/EUROPE/ITALY/CANALE5-1.png",IT - CANALE 5
+http://yolomax.pro/live/hichamfaik/2U9GANK/68445.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - ITALIA 1" tvg-logo="http://go4.pw/EUROPE/ITALY/ITALIA1.png",IT - ITALIA 1
+http://yolomax.pro/live/hichamfaik/2U9GANK/68446.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - LA7" tvg-logo="http://go4.pw/EUROPE/ITALY/LA7.png",IT - LA7
+http://yolomax.pro/live/hichamfaik/2U9GANK/68447.ts
+
+#EXTINF:-1 group-title="ITALIA" tvg-id="IT - MEDIASET 20" tvg-logo="http://go4.pw/EUROPE/ROMANIA/20_Mediaset.png",IT - MEDIASET 20
+http://yolomax.pro/live/hichamfaik/2U9GANK/329577.ts
