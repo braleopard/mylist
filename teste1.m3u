@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GLOBO NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+http://192.168.1.9:8000/GLOBO%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GLOBO NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+http://192.168.1.9:8000/GLOBO%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GLOBO NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+http://192.168.1.9:8000/GLOBO%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/bandnews.png",BAND NEWS
+http://192.168.1.9:8000/BAND%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/bandnews.png",BAND NEWS
+http://192.168.1.9:8000/BAND%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/bandnews.png",BAND NEWS
+http://192.168.1.9:8000/BAND%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CNN BRASIL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/CNNBRAZIL.png",CNN BRASIL
+http://192.168.1.9:8000/CNN%20BRASIL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CNN BRASIL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/CNNBRAZIL.png",CNN BRASIL
+http://192.168.1.9:8000/CNN%20BRASIL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CNN BRASIL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/CNNBRAZIL.png",CNN BRASIL
+http://192.168.1.9:8000/CNN%20BRASIL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="RECORD NEWS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/record.png",RECORD NEWS
+http://192.168.1.9:8000/RECORD%20NEWS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND
+http://192.168.1.9:8000/BAND?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND
+http://192.168.1.9:8000/BAND?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GLOBO SP" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/globo.png",GLOBO SP
+http://192.168.1.9:8000/GLOBO%20SP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GLOBO SP" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/globo.png",GLOBO SP
+http://192.168.1.9:8000/GLOBO%20SP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NSC TV BLUMENAU" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/globo.png",GLOBO SC
+http://192.168.1.9:8000/GLOBO%20SC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SBT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SBT.png",SBT
+http://192.168.1.9:8000/SBT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SBT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SBT.png",SBT
+http://192.168.1.9:8000/SBT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="RECORD SP" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/record.png",RECORD SP
+http://192.168.1.9:8000/RECORD%20SP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV.png",SPORTV
+http://192.168.1.9:8000/SPORTV?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/SPORTVHD.png",SPORTV
+http://192.168.1.9:8000/SPORTV?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/SPORTVHD.png",SPORTV
+http://192.168.1.9:8000/SPORTV?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/SPORTVHD.png",SPORTV
+http://192.168.1.9:8000/SPORTV?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV2.png",SPORTV 2
+http://192.168.1.9:8000/SPORTV%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV2.png",SPORTV 2
+http://192.168.1.9:8000/SPORTV%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV2.png",SPORTV 2
+http://192.168.1.9:8000/SPORTV%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV3.png",SPORTV 3
+http://192.168.1.9:8000/SPORTV%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV3.png",SPORTV 3
+http://192.168.1.9:8000/SPORTV%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPORTV 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/SPORTV3.png",SPORTV 3
+http://192.168.1.9:8000/SPORTV%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN
+http://192.168.1.9:8000/ESPN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN
+http://192.168.1.9:8000/ESPN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN
+http://192.168.1.9:8000/ESPN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png",ESPN
+http://192.168.1.9:8000/ESPN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/espn2.png",ESPN 2
+http://192.168.1.9:8000/ESPN%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/espn2.png",ESPN 2
+http://192.168.1.9:8000/ESPN%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/espn2.png",ESPN 2
+http://192.168.1.9:8000/ESPN%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 3" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 3
+http://192.168.1.9:8000/ESPN%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 3" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 3
+http://192.168.1.9:8000/ESPN%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 4" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 4
+http://192.168.1.9:8000/ESPN%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 4" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 4
+http://192.168.1.9:8000/ESPN%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 5" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 5
+http://192.168.1.9:8000/ESPN%205?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ESPN 6" group-title="BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 6
+http://192.168.1.9:8000/ESPN%206?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/PREMIERE.png",PREMIERE CLUBES
+http://192.168.1.9:8000/PREMIERE%20CLUBES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/PREMIERE.png",PREMIERE CLUBES
+http://192.168.1.9:8000/PREMIERE%20CLUBES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/PREMIERE.png",PREMIERE CLUBES
+http://192.168.1.9:8000/PREMIERE%20CLUBES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/PREMIERE.png",PREMIERE CLUBES
+http://192.168.1.9:8000/PREMIERE%20CLUBES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 2
+http://192.168.1.9:8000/PREMIERE%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 2
+http://192.168.1.9:8000/PREMIERE%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 2
+http://192.168.1.9:8000/PREMIERE%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 3
+http://192.168.1.9:8000/PREMIERE%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 3
+http://192.168.1.9:8000/PREMIERE%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 3" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 3
+http://192.168.1.9:8000/PREMIERE%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 4" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 4
+http://192.168.1.9:8000/PREMIERE%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 4" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 4
+http://192.168.1.9:8000/PREMIERE%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 4" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 4
+http://192.168.1.9:8000/PREMIERE%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 5" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 5
+http://192.168.1.9:8000/PREMIERE%205?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 5" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 5
+http://192.168.1.9:8000/PREMIERE%205?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 6" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 6
+http://192.168.1.9:8000/PREMIERE%206?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 6" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 6
+http://192.168.1.9:8000/PREMIERE%206?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 7" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 7
+http://192.168.1.9:8000/PREMIERE%207?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 7" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 7
+http://192.168.1.9:8000/PREMIERE%207?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PREMIERE 8" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png",PREMIERE 8
+http://192.168.1.9:8000/PREMIERE%208?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 1" group-title="BRASIL ALTERNATIVO" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",NOSSO FUTEBOL 1
+http://192.168.1.9:8000/NOSSO%20FUTEBOL%201?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 2" group-title="BRASIL ALTERNATIVO" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",NOSSO FUTEBOL 2
+http://192.168.1.9:8000/NOSSO%20FUTEBOL%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 3" group-title="BRASIL ALTERNATIVO" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",NOSSO FUTEBOL 3
+http://192.168.1.9:8000/NOSSO%20FUTEBOL%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 4" group-title="BRASIL ALTERNATIVO" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",NOSSO FUTEBOL 4
+http://192.168.1.9:8000/NOSSO%20FUTEBOL%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 5" group-title="BRASIL ALTERNATIVO" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",NOSSO FUTEBOL 5
+http://192.168.1.9:8000/NOSSO%20FUTEBOL%205?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND SPORTS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND SPORTS
+http://192.168.1.9:8000/BAND%20SPORTS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BAND SPORTS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/band.png",BAND SPORTS
+http://192.168.1.9:8000/BAND%20SPORTS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="COMBATE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/COMBATEHD-1.png",COMBATE
+http://192.168.1.9:8000/COMBATE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png",HBO
+http://192.168.1.9:8000/HBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png",HBO
+http://192.168.1.9:8000/HBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png",HBO
+http://192.168.1.9:8000/HBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/HBO_2_.png",HBO 2
+http://192.168.1.9:8000/HBO%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/HBO_2_.png",HBO 2
+http://192.168.1.9:8000/HBO%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/HBO_2_.png",HBO 2
+http://192.168.1.9:8000/HBO%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO FAMILY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png",HBO FAMILY
+http://192.168.1.9:8000/HBO%20FAMILY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO FAMILY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png",HBO FAMILY
+http://192.168.1.9:8000/HBO%20FAMILY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO FAMILY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png",HBO FAMILY
+http://192.168.1.9:8000/HBO%20FAMILY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO PLUS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBO+.png",HBO PLUS
+http://192.168.1.9:8000/HBO%20PLUS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO PLUS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBO+.png",HBO PLUS
+http://192.168.1.9:8000/HBO%20PLUS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO PLUS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBO+.png",HBO PLUS
+http://192.168.1.9:8000/HBO%20PLUS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO MUNDI" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png",HBO MUNDI
+http://192.168.1.9:8000/HBO%20MUNDI?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO MUNDI" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png",HBO MUNDI
+http://192.168.1.9:8000/HBO%20MUNDI?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO MUNDI" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png",HBO MUNDI
+http://192.168.1.9:8000/HBO%20MUNDI?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO POP" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png",HBO POP
+http://192.168.1.9:8000/HBO%20POP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO POP" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png",HBO POP
+http://192.168.1.9:8000/HBO%20POP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO POP" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png",HBO POP
+http://192.168.1.9:8000/HBO%20POP?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO XTREME" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png",HBO XTREME
+http://192.168.1.9:8000/HBO%20XTREME?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO XTREME" group-title="BRASIL ALTERNATIVO" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png",HBO XTREME
+http://192.168.1.9:8000/HBO%20XTREME?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO SIGNATURE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png",HBO SIGNATURE
+http://192.168.1.9:8000/HBO%20SIGNATURE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO SIGNATURE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png",HBO SIGNATURE
+http://192.168.1.9:8000/HBO%20SIGNATURE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HBO SIGNATURE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png",HBO SIGNATURE
+http://192.168.1.9:8000/HBO%20SIGNATURE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PREMIUM
+http://192.168.1.9:8000/TELECINE%20PREMIUM?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PREMIUM
+http://192.168.1.9:8000/TELECINE%20PREMIUM?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PREMIUM
+http://192.168.1.9:8000/TELECINE%20PREMIUM?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE ACTION" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE ACTION
+http://192.168.1.9:8000/TELECINE%20ACTION?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE ACTION" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE ACTION
+http://192.168.1.9:8000/TELECINE%20ACTION?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE ACTION" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE ACTION
+http://192.168.1.9:8000/TELECINE%20ACTION?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PIPOCA
+http://192.168.1.9:8000/TELECINE%20PIPOCA?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PIPOCA
+http://192.168.1.9:8000/TELECINE%20PIPOCA?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE PIPOCA
+http://192.168.1.9:8000/TELECINE%20PIPOCA?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE CULT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE CULT
+http://192.168.1.9:8000/TELECINE%20CULT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE CULT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE CULT
+http://192.168.1.9:8000/TELECINE%20CULT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE CULT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE CULT
+http://192.168.1.9:8000/TELECINE%20CULT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE FUN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE FUN
+http://192.168.1.9:8000/TELECINE%20FUN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE FUN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE FUN
+http://192.168.1.9:8000/TELECINE%20FUN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE FUN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE FUN
+http://192.168.1.9:8000/TELECINE%20FUN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE TOUCH" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE TOUCH
+http://192.168.1.9:8000/TELECINE%20TOUCH?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE TOUCH" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE TOUCH
+http://192.168.1.9:8000/TELECINE%20TOUCH?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TELECINE TOUCH" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TELECINE TOUCH
+http://192.168.1.9:8000/TELECINE%20TOUCH?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINEMAX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX
+http://192.168.1.9:8000/CINEMAX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINEMAX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX
+http://192.168.1.9:8000/CINEMAX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINEMAX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX
+http://192.168.1.9:8000/CINEMAX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/studio.png",STUDIO UNIVERSAL
+http://192.168.1.9:8000/STUDIO%20UNIVERSAL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/studio.png",STUDIO UNIVERSAL
+http://192.168.1.9:8000/STUDIO%20UNIVERSAL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/Mexico/studio.png",STUDIO UNIVERSAL
+http://192.168.1.9:8000/STUDIO%20UNIVERSAL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/laz.paramounthd.png",PARAMOUNT
+http://192.168.1.9:8000/PARAMOUNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/laz.paramounthd.png",PARAMOUNT
+http://192.168.1.9:8000/PARAMOUNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/laz.paramounthd.png",PARAMOUNT
+http://192.168.1.9:8000/PARAMOUNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/SD/42.png",TNT
+http://192.168.1.9:8000/TNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/SD/42.png",TNT
+http://192.168.1.9:8000/TNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/SD/42.png",TNT
+http://192.168.1.9:8000/TNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT SERIES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TNT SERIES
+http://192.168.1.9:8000/TNT%20SERIES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT SERIES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TNT SERIES
+http://192.168.1.9:8000/TNT%20SERIES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TNT SERIES" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/TELECINE-TOUCH-1.png",TNT SERIES
+http://192.168.1.9:8000/TNT%20SERIES?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPACE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/iptvlogos/SPACE_TV_HD.png",SPACE
+http://192.168.1.9:8000/SPACE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPACE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/iptvlogos/SPACE_TV_HD.png",SPACE
+http://192.168.1.9:8000/SPACE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SPACE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/iptvlogos/SPACE_TV_HD.png",SPACE
+http://192.168.1.9:8000/SPACE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="AXN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/AXNHD.png",AXN
+http://192.168.1.9:8000/AXN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="AXN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/AXNHD.png",AXN
+http://192.168.1.9:8000/AXN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="AXN" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/AXNHD.png",AXN
+http://192.168.1.9:8000/AXN?u=teste1:p=1234
+#EXTINF:-1 tvg-id="FX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/fx.png",FX
+http://192.168.1.9:8000/FX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="FX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/fx.png",FX
+http://192.168.1.9:8000/FX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MEGAPIX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png",MEGAPIX
+http://192.168.1.9:8000/MEGAPIX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MEGAPIX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png",MEGAPIX
+http://192.168.1.9:8000/MEGAPIX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MEGAPIX" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/MEGAPIXHD-1.png",MEGAPIX
+http://192.168.1.9:8000/MEGAPIX?u=teste1:p=1234
+#EXTINF:-1 tvg-id="A&E" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/AE.png",A&E
+http://192.168.1.9:8000/A%26E?u=teste1:p=1234
+#EXTINF:-1 tvg-id="A&E" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/AE.png",A&E
+http://192.168.1.9:8000/A%26E?u=teste1:p=1234
+#EXTINF:-1 tvg-id="A&E" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/CANADA/AE.png",A&E
+http://192.168.1.9:8000/A%26E?u=teste1:p=1234
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/SOMALIA/UNIVERSAL_TV.png",UNIVERSAL CHANNEL
+http://192.168.1.9:8000/UNIVERSAL%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/SOMALIA/UNIVERSAL_TV.png",UNIVERSAL CHANNEL
+http://192.168.1.9:8000/UNIVERSAL%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/SOMALIA/UNIVERSAL_TV.png",UNIVERSAL CHANNEL
+http://192.168.1.9:8000/UNIVERSAL%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SONY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/germany/6.png",SONY
+http://192.168.1.9:8000/SONY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SONY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/germany/6.png",SONY
+http://192.168.1.9:8000/SONY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="SONY" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/germany/6.png",SONY
+http://192.168.1.9:8000/SONY?u=teste1:p=1234
+#EXTINF:-1 tvg-id="WARNER CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png",WARNER CHANNEL
+http://192.168.1.9:8000/WARNER%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="WARNER CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png",WARNER CHANNEL
+http://192.168.1.9:8000/WARNER%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="WARNER CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png",WARNER CHANNEL
+http://192.168.1.9:8000/WARNER%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="USA" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/USA/SD/37.png",USA
+http://192.168.1.9:8000/USA?u=teste1:p=1234
+#EXTINF:-1 tvg-id="AMC" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/AMC.png",AMC
+http://192.168.1.9:8000/AMC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="AMC" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/AMC.png",AMC
+http://192.168.1.9:8000/AMC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="LIFETIME" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/PHILIPINES/Lifetime.png",LIFETIME
+http://192.168.1.9:8000/LIFETIME?u=teste1:p=1234
+#EXTINF:-1 tvg-id="LIFETIME" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/PHILIPINES/Lifetime.png",LIFETIME
+http://192.168.1.9:8000/LIFETIME?u=teste1:p=1234
+#EXTINF:-1 tvg-id="FILM & ARTS" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/LATINO/MEXICO/FILMANDARTS.png",FILM & ARTS
+http://192.168.1.9:8000/FILM%20%26%20ARTS?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/Gnt_HD.png",GNT
+http://192.168.1.9:8000/GNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="GNT" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/Gnt_HD.png",GNT
+http://192.168.1.9:8000/GNT?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MULTISHOW" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/MULTISHOWHD-Copie.png",MULTISHOW
+http://192.168.1.9:8000/MULTISHOW?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MULTISHOW" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/MULTISHOWHD-Copie.png",MULTISHOW
+http://192.168.1.9:8000/MULTISHOW?u=teste1:p=1234
+#EXTINF:-1 tvg-id="FOOD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/UK/FOODNETWORK.png",FOOD
+http://192.168.1.9:8000/FOOD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="FOOD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/UK/FOODNETWORK.png",FOOD
+http://192.168.1.9:8000/FOOD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="MODO VIAGEM" group-title="BRASIL ALTERNATIVO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png",MODO VIAGEM
+http://192.168.1.9:8000/MODO%20VIAGEM?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png",DISCOVERY CHANNEL
+http://192.168.1.9:8000/DISCOVERY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png",DISCOVERY CHANNEL
+http://192.168.1.9:8000/DISCOVERY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png",DISCOVERY CHANNEL
+http://192.168.1.9:8000/DISCOVERY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY H&H" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/HANDH.png",DISCOVERY H&H
+http://192.168.1.9:8000/DISCOVERY%20H%26H?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY H&H" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/HANDH.png",DISCOVERY H&H
+http://192.168.1.9:8000/DISCOVERY%20H%26H?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY H&H" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/HANDH.png",DISCOVERY H&H
+http://192.168.1.9:8000/DISCOVERY%20H%26H?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/THEATER.png",DISCOVERY THEATER
+http://192.168.1.9:8000/DISCOVERY%20THEATER?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/THEATER.png",DISCOVERY THEATER
+http://192.168.1.9:8000/DISCOVERY%20THEATER?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/THEATER.png",DISCOVERY THEATER
+http://192.168.1.9:8000/DISCOVERY%20THEATER?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/FINLAND/Discovery_Science.png",DISCOVERY SCIENCE
+http://192.168.1.9:8000/DISCOVERY%20SCIENCE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/FINLAND/Discovery_Science.png",DISCOVERY SCIENCE
+http://192.168.1.9:8000/DISCOVERY%20SCIENCE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/FINLAND/Discovery_Science.png",DISCOVERY SCIENCE
+http://192.168.1.9:8000/DISCOVERY%20SCIENCE?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/WORLD.png",DISCOVERY WORLD
+http://192.168.1.9:8000/DISCOVERY%20WORLD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/WORLD.png",DISCOVERY WORLD
+http://192.168.1.9:8000/DISCOVERY%20WORLD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-WORLDHD-1.png",DISCOVERY WORLD
+http://192.168.1.9:8000/DISCOVERY%20WORLD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY ID" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png",DISCOVERY ID
+http://192.168.1.9:8000/DISCOVERY%20ID?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY ID" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png",DISCOVERY ID
+http://192.168.1.9:8000/DISCOVERY%20ID?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY ID" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png",DISCOVERY ID
+http://192.168.1.9:8000/DISCOVERY%20ID?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png",DISCOVERY TURBO
+http://192.168.1.9:8000/DISCOVERY%20TURBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png",DISCOVERY TURBO
+http://192.168.1.9:8000/DISCOVERY%20TURBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png",DISCOVERY TURBO
+http://192.168.1.9:8000/DISCOVERY%20TURBO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TLC" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/logos/tlc.png",TLC
+http://192.168.1.9:8000/TLC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TLC" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/logos/tlc.png",TLC
+http://192.168.1.9:8000/TLC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TLC" group-title="BRASIL ALTERNATIVO" tvg-logo="http://103.176.90.118/picons/logos/logos/tlc.png",TLC
+http://192.168.1.9:8000/TLC?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/ALBANIA/15.png",HISTORY CHANNEL
+http://192.168.1.9:8000/HISTORY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/ALBANIA/15.png",HISTORY CHANNEL
+http://192.168.1.9:8000/HISTORY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/ALBANIA/15.png",HISTORY CHANNEL
+http://192.168.1.9:8000/HISTORY%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HISTORY 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HISTORY-2.png",HISTORY 2
+http://192.168.1.9:8000/HISTORY%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="HISTORY 2" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HISTORY-2.png",HISTORY 2
+http://192.168.1.9:8000/HISTORY%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NAT GEO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/OSN/NATGEOGRAPHIC-1.png",NAT GEO
+http://192.168.1.9:8000/NAT%20GEO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NAT GEO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/OSN/NATGEOGRAPHIC-1.png",NAT GEO
+http://192.168.1.9:8000/NAT%20GEO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NAT GEO" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/OSN/NATGEOGRAPHIC-1.png",NAT GEO
+http://192.168.1.9:8000/NAT%20GEO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/SPAIN/NATGEOWILD.png",NAT GEO WILD
+http://192.168.1.9:8000/NAT%20GEO%20WILD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/SPAIN/NATGEOWILD.png",NAT GEO WILD
+http://192.168.1.9:8000/NAT%20GEO%20WILD?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ANIMAL PLANET" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/OSN/OSNANIMALPLANETHD.png",ANIMAL PLANET
+http://192.168.1.9:8000/ANIMAL%20PLANET?u=teste1:p=1234
+#EXTINF:-1 tvg-id="ANIMAL PLANET" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/OSN/OSNANIMALPLANETHD.png",ANIMAL PLANET
+http://192.168.1.9:8000/ANIMAL%20PLANET?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="BRASIL ALTERNATIVO" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png",CARTOON NETWORK
+http://192.168.1.9:8000/CARTOON%20NETWORK?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CARTOONITO" group-title="BRASIL ALTERNATIVO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png",CARTOONITO
+http://192.168.1.9:8000/CARTOONITO?u=teste1:p=1234
+#EXTINF:-1 tvg-id="TOONCAST" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/AMERICA/CARIBBIEAN/Tooncast.png",TOONCAST
+http://192.168.1.9:8000/TOONCAST?u=teste1:p=1234
+#EXTINF:-1 tvg-id="BOOMERANG" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/BRAZIL/cart.png",BOOMERANG
+http://192.168.1.9:8000/BOOMERANG?u=teste1:p=1234
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="BRASIL ALTERNATIVO" tvg-logo="http://go4.pw/usa/Nickelodeon_HD.png",NICKELODEON
+http://192.168.1.9:8000/NICKELODEON?u=teste1:p=1234
+#EXTINF:-1 tvg-id="STAR CHANNEL" group-title="BRASIL ALTERNATIVO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png",STAR CHANNEL
+http://192.168.1.9:8000/STAR%20CHANNEL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE CANAL" group-title="BRASIL ALTERNATIVO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png",CINE CANAL
+http://192.168.1.9:8000/CINE%20CANAL?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 1" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 1
+http://192.168.1.9:8000/CINE%20SKY%201?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 2" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 2
+http://192.168.1.9:8000/CINE%20SKY%202?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 3" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 3
+http://192.168.1.9:8000/CINE%20SKY%203?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 4" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 4
+http://192.168.1.9:8000/CINE%20SKY%204?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 5" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 5
+http://192.168.1.9:8000/CINE%20SKY%205?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 6" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 6
+http://192.168.1.9:8000/CINE%20SKY%206?u=teste1:p=1234
+#EXTINF:-1 tvg-id="CINE SKY 7" group-title="BRASIL ALTERNATIVO" tvg-logo="https://cms.sky.com.br/o/sky-play-theme/images/LogoAppSKY.png",CINE SKY 7
+http://192.168.1.9:8000/CINE%20SKY%207?u=teste1:p=1234
