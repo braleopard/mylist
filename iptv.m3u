@@ -1,0 +1,1180 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 01 (ACOMPANHE A CASA 1)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765753&extension=ts&play_token=FxT7CSSWpQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 02 (ACOMPANHE A CASA 2)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765754&extension=ts&play_token=uXO49pZ6MW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 03 (MOSAICO)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765755&extension=ts&play_token=yeC7wNxYxi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 04 (COZINHA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765745&extension=ts&play_token=7aMg3YA8cd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 05 (QUARTO ANOS 50)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765746&extension=ts&play_token=FVPiQ3wAyx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 06 (QUARTO NORDESTE)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765747&extension=ts&play_token=h7ofIEJclq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 07 (QUARTO FANTÁSTICO)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765748&extension=ts&play_token=9MsgzUhYzK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 08 (COZINHA 2)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765749&extension=ts&play_token=DpTs7hMwGF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 09 (CÂMERA PANTENE)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765750&extension=ts&play_token=kxZu2okJrv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 10 (SALA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765751&extension=ts&play_token=x6C9bKARM4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 11 (PISCINA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765752&extension=ts&play_token=87sSv4Su4f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIG-BROTHER.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BBB CAM 12 (ACADEMIA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1765744&extension=ts&play_token=oCkIjgp0ow
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvrecord.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD (NA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91673&extension=ts&play_token=qe8DFvlsyo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/RECORD-MINAS.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD MINAS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1772386&extension=ts&play_token=yqpIAqaCnF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SBT-ALTEROSA.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT ALTEROSA MG HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1772385&extension=ts&play_token=WRIgMXpNRl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT INTERNACIONAL (NA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=156348&extension=ts&play_token=mafO3Lrb1t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bandnews.jpg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BAND NEWS (NA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=156354&extension=ts&play_token=CtsOwQSzIP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/JOVEM-PAN-NEWS.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| JOVEM PAN NEWS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=828231&extension=ts&play_token=tIpIotd2e5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/JOVEM-PAN-NEWS.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| JOVEM PAN NEWS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890717&extension=ts&play_token=woUTc4Ksao
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Band_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BAND HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59296&extension=ts&play_token=GEBlg70DG4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Brand_News_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BAND NEWS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59295&extension=ts&play_token=tcaYq2rfBI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/novo_tempo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| NOVO TEMPO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=270382&extension=ts&play_token=Rn5kU1cv61
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO HD (NA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91677&extension=ts&play_token=wndxHs8b4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_international.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO INTERNACIONAL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59240&extension=ts&play_token=FcMF38RAfb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Gloob.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59231&extension=ts&play_token=i5H2cZov2S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59251&extension=ts&play_token=k8j0PyjfqN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO NEWS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59244&extension=ts&play_token=F3fQBe0D3d
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_Brasilia.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO BRASILIA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59248&extension=ts&play_token=LCNQxq6Xaa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvglobo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV GAZETE VITORIA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=674829&extension=ts&play_token=SepnVei19M
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvglobo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV TEM SOROCABA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890484&extension=ts&play_token=eLk9agtFxB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-PORTUGAL.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO PORTUGAL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91672&extension=ts&play_token=CoYjGEaYxS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO SAT HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59232&extension=ts&play_token=GHKVmTLeEg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_EPTV.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO EPTV CAMPINAS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59247&extension=ts&play_token=HYV5svEEqH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_EPTV.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO EPTV RIBEIRO PRETO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59246&extension=ts&play_token=idimrJ1W5g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO FORTALEZA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59245&extension=ts&play_token=5eJsx82yoo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_Minas.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO MINAS HEVC
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59242&extension=ts&play_token=yhc2qdA7ka
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO_NORDESTE_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO NORDESTE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59243&extension=ts&play_token=X3vBsSSNnh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO RBS PORTO ALGRE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59239&extension=ts&play_token=NpNL0Z2Ai8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO_RJ_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO RJ HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59241&extension=ts&play_token=jLsTTbrnyZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_RPC_TV.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO RPC TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59238&extension=ts&play_token=gbXA1ipiGW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/globo_sp.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO SP HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59237&extension=ts&play_token=u7JmLV3MiP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO SP HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890665&extension=ts&play_token=2fNFN7iDG3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO TV_CABUGI.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV CABUGI
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59236&extension=ts&play_token=15RzzmEb3h
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO_TV_TEM_BAURU.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV TEM BAURU
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59235&extension=ts&play_token=bSliP5JIYj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO_TV_TEM_BAURU.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV TEM BAURU
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890668&extension=ts&play_token=dtowFbReGg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_TV_Tribuna_Santos.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV TRIBUNA SANTOS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59234&extension=ts&play_token=gIpKUSJbIC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_TV_Verdes_Mares.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV VERDES MARES FORTALEZA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59233&extension=ts&play_token=1X9II6FegF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo_TV_Verdes_Mares.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV VERDES MARES FORTALEZA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890671&extension=ts&play_token=ADxKm7aX27
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890670&extension=ts&play_token=sObsmXjdsC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890669&extension=ts&play_token=EqlSPIDgxP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO BELEM
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=389899&extension=ts&play_token=W4PLKqFoNI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV BELEM
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890667&extension=ts&play_token=eYfR8OKfRF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Globo.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO TV BAHIA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890666&extension=ts&play_token=VKIDyZgr5T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-TV-BR.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO CUIABA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890661&extension=ts&play_token=irEWiFEsvk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-TV-BR.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO CUIABA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890664&extension=ts&play_token=5E0F5xTsWt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-ANHANGUERA-GOIANIA.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO ANHANGUERA GOIANIA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890660&extension=ts&play_token=WfzjUfrxaq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-ANHANGUERA-GOIANIA.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO ANHANGUERA GOIANIA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890663&extension=ts&play_token=hp3bdNIlNr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLOBO-TV-BR.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO AMAZONAS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890659&extension=ts&play_token=DJCNL3tXZD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/GLOBO-PLAY.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GLOBO PLAY
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1379743&extension=ts&play_token=uunJtVLzrI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recodrd_tv_nordeste.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59190&extension=ts&play_token=5aTOKOSw38
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/record_news.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD NEWS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59189&extension=ts&play_token=h07L1PFMvG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvsp.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD SP HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59191&extension=ts&play_token=WKoGKzuy1B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD RS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890688&extension=ts&play_token=tCi6kXD3HX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD PARÁ HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890686&extension=ts&play_token=fKNk9S7jZ7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD NATAL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890685&extension=ts&play_token=jWffUDZztc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD MANAUS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890684&extension=ts&play_token=93Ar5j40r9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD GO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890683&extension=ts&play_token=k0NbZlZvb4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD CAMPINAS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890682&extension=ts&play_token=Q7BRtQrkxy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD BRASÍLIA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890681&extension=ts&play_token=OJu89XkCBV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/recordtvhd.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD RJ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890679&extension=ts&play_token=dbWVaGuzAa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RECORD-TV.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RECORD BELO HORIZONTE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890678&extension=ts&play_token=fCjOta6Fon
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/REDE-FAMILIA.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| REDE FAMILIA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91674&extension=ts&play_token=8dxKzzePyi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/REDE-FAMILIA.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| REDE FAMÍLIA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890709&extension=ts&play_token=k500kAP9c4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RedeTV.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| REDE TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59188&extension=ts&play_token=ZHsOGHlLct
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Boa_Vonde_Tv.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| BOA VONTADE TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59291&extension=ts&play_token=UXZ8zFJPQB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Canal_brasil.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| CANAL BRASIL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59289&extension=ts&play_token=SkJpGk8AzW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CNN.jpg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| CNN BRASIL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=725197&extension=ts&play_token=jkZQsXDKGs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cancaonova.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| CANCAO NOVA AO VIVO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91675&extension=ts&play_token=3qiBOpl84U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cancaonova.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| CANÇÃO NOVA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890708&extension=ts&play_token=FgKLaaeEvz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Aparecida.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| TV APARECIDA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890711&extension=ts&play_token=Eme1FjafvY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Aparecida.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| TV APARECIDA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=91676&extension=ts&play_token=JpeFKxouNz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/redevida.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| REDE VIDA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59187&extension=ts&play_token=mGXNOrTm5U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Curta.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| CURTA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59278&extension=ts&play_token=pIOPQv6j3F
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Sbt_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59186&extension=ts&play_token=SVBzeaSwpA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT(GO)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890705&extension=ts&play_token=QtmLSrGWHx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT-TV-DIFUSORA.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT TV DIFUSORA(MA)
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890701&extension=ts&play_token=2KzkRn0Gn7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT SP
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890699&extension=ts&play_token=iBZi7HUqT9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT SP FHD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890698&extension=ts&play_token=jWVaXFxe8A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT-RJ.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT RJ HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890696&extension=ts&play_token=4svGTlZ9kq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT PR HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890695&extension=ts&play_token=VL28sYMh5p
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT--.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT PI HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890694&extension=ts&play_token=5CaUiS3K6N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT-BRASILIA.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT BRASILIA FHD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890691&extension=ts&play_token=P0upCwCc9I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBT-NORDESTE.jpeg" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| SBT NORDESTE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890690&extension=ts&play_token=BtdQ7pTHlk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Futura.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| FUTURA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59253&extension=ts&play_token=GQikcFXYgW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Gnt_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| GNT
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59230&extension=ts&play_token=UX6pnEF0yw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rit_tv.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| RIT TV HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=54171&extension=ts&play_token=8p1VZyDZwM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.TBS_HD.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| TBS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59179&extension=ts&play_token=3ejGkxPCYN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Viva.png" group-title="BR| GLOBO-RECORD-SBT-NEWS",BR| VIVA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59156&extension=ts&play_token=aE15CaY53d
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/WOOHOO.png" group-title="BR| CULTURA",BR| WOOHOO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59154&extension=ts&play_token=4VpWX45fn7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AyE_HD.png" group-title="BR| CULTURA",BR| A&E HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59303&extension=ts&play_token=cF78qECjlT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Animal_Planet_HD.png" group-title="BR| CULTURA",BR| ANIMAL PLANET HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59302&extension=ts&play_token=HfsEIDOF3N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Comedycentral.png" group-title="BR| CULTURA",BR| COMEDY CENTRAL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59280&extension=ts&play_token=944cxI7gU4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.discoverychannel.png" group-title="BR| CULTURA",BR| DISCOVERY CHANNEL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59277&extension=ts&play_token=pFibZz2Kvw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.disvovery_hyh.png" group-title="BR| CULTURA",BR| DISCOVERY H&H HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59275&extension=ts&play_token=BRqxFWvHVW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.discovery_channel_HD.png" group-title="BR| CULTURA",BR| DISCOVERY ID HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59222&extension=ts&play_token=SRsCUmfa95
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Discovery_Science.png" group-title="BR| CULTURA",BR| DISCOVERY SCIENCE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59273&extension=ts&play_token=S7G2xEbewK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Discovery_theater_HD.png" group-title="BR| CULTURA",BR| DISCOVERY THEATER HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59272&extension=ts&play_token=Zjro5BbXX7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverytlc.png" group-title="BR| CULTURA",BR| DISCOVERY TLC
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890655&extension=ts&play_token=CUTgSRspym
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Discovery_world_hd.png" group-title="BR| CULTURA",BR| DISCOVERY WORLD HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59166&extension=ts&play_token=HVIR9WsGxT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="BR| CULTURA",BR| INVESTIGAÇÃO DISCOVERY HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890676&extension=ts&play_token=f2lwKdbo4u
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.discovery_turbo_HD.png" group-title="BR| CULTURA",BR| DISCOVERY TURBO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59271&extension=ts&play_token=9Ym8Zibja3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.ie.png" group-title="BR| CULTURA",BR| E! HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59267&extension=ts&play_token=waUvsElZ30
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Food_Network_HD.png" group-title="BR| CULTURA",BR| FOOD NETWORK HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59260&extension=ts&play_token=abhJM8l2yz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.historyhd.png" group-title="BR| CULTURA",BR| HISTORY CHANNEL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59223&extension=ts&play_token=J7ofIJRDRj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.h2_hd.png" group-title="BR| CULTURA",BR| HISTORY 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59229&extension=ts&play_token=Mu3DJLSSgM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Nat_Geo_HD.png" group-title="BR| CULTURA",BR| NAT GEO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59212&extension=ts&play_token=4s82RNdgZo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.natgeowildhd.png" group-title="BR| CULTURA",BR| NAT GEO WILD HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59210&extension=ts&play_token=Pb2HCHFXjH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arte1.png" group-title="BR| CULTURA",BR| ARTE 1
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59299&extension=ts&play_token=3fsr2SDKkT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CULTURA-TV-BR.png" group-title="BR| CULTURA",BR| CULTURA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890654&extension=ts&play_token=aylGlZ7unh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Travel-Box.png" group-title="BR| CULTURA",BR| TRAVEL BOX HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1061050&extension=ts&play_token=bCflCbgZWb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Band_Sports.png" group-title="BR| DESPORTO",BR| BAND SPORTS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59294&extension=ts&play_token=Vl5qOfolwl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TV-CIDADE.png" group-title="BR| CULTURA",BR| TV CIDADE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1707271&extension=ts&play_token=y1zj6omHPL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.tlchd.png" group-title="BR| CULTURA",BR| TLC HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59170&extension=ts&play_token=QCxEV9UKcN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/off.png" group-title="BR| DESPORTO",BR| CANAL OFF
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59206&extension=ts&play_token=vw2j1EUpdj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Combate.png" group-title="BR| DESPORTO",BR| COMBATE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59281&extension=ts&play_token=gA9rDncQ0i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.ESPN.png" group-title="BR| DESPORTO",BR| ESPN
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59266&extension=ts&play_token=KGbOOR5GDS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.espnhd.png" group-title="BR| DESPORTO",BR| ESPN HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59265&extension=ts&play_token=FPVl5PmoLN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.espn2hd.png" group-title="BR| DESPORTO",BR| ESPN 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59264&extension=ts&play_token=IojGEE9GrO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ESPN-3.jpeg" group-title="BR| DESPORTO",BR| ESPN 3 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890657&extension=ts&play_token=RQZUWMBIsG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/espn4hd.png" group-title="BR| DESPORTO",BR| ESPN 4 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890658&extension=ts&play_token=a4OMuxoldG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ESPN_Brasil_HD.png" group-title="BR| DESPORTO",BR| ESPN BRASIL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59263&extension=ts&play_token=5d7OqT1AHz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/espnextra.png" group-title="BR| DESPORTO",BR| ESPN EXTRA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59262&extension=ts&play_token=3h8WFNz1Na
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fishtv.png" group-title="BR| DESPORTO",BR| FISH TV HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59261&extension=ts&play_token=7RpA3dKC6d
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fox_sports_HD.png" group-title="BR| DESPORTO",BR| FOX SPORTS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59255&extension=ts&play_token=qYX2jNUrwz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.foxsport2.png" group-title="BR| DESPORTO",BR| FOX SPORTS 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59254&extension=ts&play_token=BjkMmiPNun
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.foxsport2.png" group-title="BR| DESPORTO",BR| FOX PREMIUM 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59256&extension=ts&play_token=WhlmMR5Yvv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Premiere1.png" group-title="BR| DESPORTO",BR| PREMIERE 1
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59161&extension=ts&play_token=3jSbsq58l9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 2
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59202&extension=ts&play_token=aW6ABtHnyC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 3 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59201&extension=ts&play_token=2nMJ1Rx1jW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 4 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59200&extension=ts&play_token=PKQp7CkIm5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 5 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59199&extension=ts&play_token=qqALakL7U4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 6 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59198&extension=ts&play_token=UAAWG7CPHT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 7
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59197&extension=ts&play_token=6uWs4CHLZX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",BR| PREMIERE 8
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59196&extension=ts&play_token=jzCvzCveKp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Premiere_HD.png" group-title="BR| DESPORTO",BR| PREMIERE CLUBES HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59194&extension=ts&play_token=d3xWF3ATyw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SporTV_HD.png" group-title="BR| DESPORTO",BR| SPORTV HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59184&extension=ts&play_token=zDEzctgbcs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sportv2.png" group-title="BR| DESPORTO",BR| SPORTV 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59183&extension=ts&play_token=ArIOXlg6gg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sportv3.png" group-title="BR| DESPORTO",BR| SPORTV 3 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59182&extension=ts&play_token=GLh9eXXW0S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",BR| CONMEBOL TV 1
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=750888&extension=ts&play_token=nVqLsiAgXR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",BR| CONMEBOL TV 2
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=750889&extension=ts&play_token=OpNaIMmJuc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",BR| CONMEBOL TV 3
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=750890&extension=ts&play_token=0zaz5AilLu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Cartoon_Network_HD.png" group-title="BR| CRIANÇAS",BR| CARTOON NETWORK HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59283&extension=ts&play_token=IBAMUSUhak
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.babytv.png" group-title="BR| CRIANÇAS",BR| BABY TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59297&extension=ts&play_token=HZUdfoPPYs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Bomerang.png" group-title="BR| CRIANÇAS",BR| BOOMERANG HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59290&extension=ts&play_token=6MVkFymGqI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Discovery_kids_hd.png" group-title="BR| CRIANÇAS",BR| DISCOVERY KIDS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59274&extension=ts&play_token=HSY4cQ8X2h
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.disneyhd.png" group-title="BR| CRIANÇAS",BR| DISNEY CHANNEL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59270&extension=ts&play_token=QGFr5oW3HX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.disneyjuniorhd.png" group-title="BR| CRIANÇAS",BR| DISNEY JUNIOR HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59269&extension=ts&play_token=rV61OO3UOz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.nicktoons.png" group-title="BR| CRIANÇAS",BR| NICKELODEON HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59209&extension=ts&play_token=lPfGdNL4q1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Nick_jr.png" group-title="BR| CRIANÇAS",BR| NICK JR HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59208&extension=ts&play_token=aCdQpD3btU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cartoonito.png" group-title="BR| CRIANÇAS",BR| CARTOONITO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890653&extension=ts&play_token=MvgVXkZFYY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.toocast.png" group-title="BR| CRIANÇAS",BR| TOONCAST HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59167&extension=ts&play_token=6coTmunVzR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZooMoo.png" group-title="BR| CRIANÇAS",BR| ZOOMOO
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59293&extension=ts&play_token=5dDugiBqj7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.sony.png" group-title="BR| FILMES-MUSICA-SHOW",BR| SONY HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59220&extension=ts&play_token=7JbJM0jVwn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv_brasil.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TV BRASIL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59165&extension=ts&play_token=atkmOCEFHx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.tnthd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TNT
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59169&extension=ts&play_token=dqt0kyyyDl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.amchd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| AMC HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59301&extension=ts&play_token=srSmORvKQS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Warnerhd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| WARNER CHANNEL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59155&extension=ts&play_token=KIsBkPpOM1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Tele_Cine_Action_HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE ACTION HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59176&extension=ts&play_token=pTRSy0ZJI7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Tele_Cine_Cult_HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE CULT HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59175&extension=ts&play_token=5AW7TnSmgC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Tele_Cine_fun_HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE FUN HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59174&extension=ts&play_token=xlkreWq5ws
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tele_cine_pipoca_hd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE PIPOCA HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59173&extension=ts&play_token=EUD5iM2kAI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Telecine_premium.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE PREMIUM HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59172&extension=ts&play_token=Xst5gSYPIj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/telecine_touch.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TELECINE TOUCH HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59171&extension=ts&play_token=zmgcumv6YR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Universal_Channel.png" group-title="BR| FILMES-MUSICA-SHOW",BR| UNIVERSAL CHANNEL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59158&extension=ts&play_token=dEidpia383
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.hbohd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59228&extension=ts&play_token=mGa7NUFRm2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Hbo2.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO 2 HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59227&extension=ts&play_token=CK3zkxaNtG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Hbo_family.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO FAMILY HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59226&extension=ts&play_token=o4luKCgclP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HBO-MUNDI.jpeg" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO MUNDI HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890672&extension=ts&play_token=MbBOG9DSBW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Hbo_plus.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO PLUS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59225&extension=ts&play_token=9RlrgB6VwP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HBO-POP.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO POP HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890673&extension=ts&play_token=V6rCFCmcOT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.hbo_signature.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO SIGNATURE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59224&extension=ts&play_token=epgmuOJ2dg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HBO-Xtreme.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HBO XTREME HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890674&extension=ts&play_token=YB1vr3g6Dn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.tntseriehd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TNT SERIES HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59168&extension=ts&play_token=q09PQG2lZY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/PRIME-BOX.png" group-title="BR| FILMES-MUSICA-SHOW",BR| PRIME BOX
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1093609&extension=ts&play_token=kJnK9fEDux
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/CINE-PIPOCA.png" group-title="BR| FILMES-MUSICA-SHOW",BR| CINE PIPOCA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1093610&extension=ts&play_token=KyAh32BiZ2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/STAR%20-CHANNEL.png" group-title="BR| FILMES-MUSICA-SHOW",BR| STAR CHANNEL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1093611&extension=ts&play_token=U4m34xIYQy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.axn.png" group-title="BR| FILMES-MUSICA-SHOW",BR| AXN HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59298&extension=ts&play_token=qTa8sVFMXC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.sony.png" group-title="BR| FILMES-MUSICA-SHOW",BR| CANAL SONY HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59284&extension=ts&play_token=awZTh3Y3Gg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.cinemaxhd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| CINEMAX HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59282&extension=ts&play_token=D0Cov6pJuw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.foxhd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| FOX HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59259&extension=ts&play_token=RMCkRjiOVC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.fox_life_hd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| FOX LIFE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59258&extension=ts&play_token=Ai60pGxo9Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.fx_hd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| FX HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59252&extension=ts&play_token=ZyvsBGPseM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.lifetime.png" group-title="BR| FILMES-MUSICA-SHOW",BR| LIFETIME HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59221&extension=ts&play_token=6bODYgfnft
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Max_HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MAX HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59219&extension=ts&play_token=vB2UzWhsxQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.maxup.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MAX UP
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59217&extension=ts&play_token=S7YcSDudrN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Megapix.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MEGAPIX
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59216&extension=ts&play_token=U9StG3h2xh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.paramounthd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| PARAMOUNT HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59205&extension=ts&play_token=gqeYXG1e5f
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.space.png" group-title="BR| FILMES-MUSICA-SHOW",BR| SPACE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59185&extension=ts&play_token=9iCNSq4HuE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.studio_universal.png" group-title="BR| FILMES-MUSICA-SHOW",BR| STUDIO UNIVERSAL HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59181&extension=ts&play_token=YfOsUBbJCk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.syfyhd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| SYFY HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59180&extension=ts&play_token=V7wbEGL3zz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.tcmhd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TCM HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59178&extension=ts&play_token=FtZ9soeK4U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/IURD-TV.png" group-title="BR| FILMES-MUSICA-SHOW",BR| IURD TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890715&extension=ts&play_token=tTHHd5NYAk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV-REDE-GOSPEL.jpeg" group-title="BR| FILMES-MUSICA-SHOW",BR| TV REDE GOSPEL
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890713&extension=ts&play_token=CLp6yNr7Jy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/REDE-SUPER.png" group-title="BR| FILMES-MUSICA-SHOW",BR| REDE SUPER
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890710&extension=ts&play_token=o4L3CqPpvM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV-GAZETA.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TV GAZETA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890706&extension=ts&play_token=qEeZxDFL4z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/off.png" group-title="BR| FILMES-MUSICA-SHOW",BR| OFF HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890677&extension=ts&play_token=D5IACEmrHy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HGTV-HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| HGTV HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=890675&extension=ts&play_token=CpR1lQzg2c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.trutv.png" group-title="BR| FILMES-MUSICA-SHOW",BR| TRU TV
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1035047&extension=ts&play_token=5I0AVwKcVj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bis.png" group-title="BR| FILMES-MUSICA-SHOW",BR| BIS HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59292&extension=ts&play_token=Cp24Z0cG4O
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.mtv_hd.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MTV HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59215&extension=ts&play_token=74xV5GHjNn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.MTV_Live_HD.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MTV LIVE HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59193&extension=ts&play_token=zx8FUh69yK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/music_box.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MUSIC BOX
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59213&extension=ts&play_token=tnSWGAy60q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Multishow.png" group-title="BR| FILMES-MUSICA-SHOW",BR| MULTI SHOW HD
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59214&extension=ts&play_token=KGnSU5qgbY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Vh1_megahits.png" group-title="BR| FILMES-MUSICA-SHOW",BR| VH1 MEGA HITS
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=59157&extension=ts&play_token=d42ByqovM5
+#EXTINF:-1 tvg-logo="" group-title="BR| FILMES-MUSICA-SHOW",BR| A GRANDE CONQUISTA
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1425672&extension=ts&play_token=EfraB9LFts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",####### PRIME PPV #######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657032&extension=ts&play_token=SloqaT1mbN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 1 - MINNESOTA TIMBERWOLVES AT PHOENIX SUNS | Thu 30 Jan 02:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657031&extension=ts&play_token=6PaPeaTJLD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 2 - LA CLIPPERS AT CHARLOTTE HORNETS | Sat 01 Feb 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657024&extension=ts&play_token=4C25OG3ux3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 2 - LA CLIPPERS AT CHARLOTTE HORNETS | Sat 01 Feb 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657030&extension=ts&play_token=RaVHCQrJM5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 3 - HOUSTON ROCKETS AT MEMPHIS GRIZZLIES | Fri 31 Jan 02:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657029&extension=ts&play_token=c2ipUvWQv4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 4 - ETAPA DE PIPELINE | Wed 29 Jan 22:46 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657028&extension=ts&play_token=T8B78DyBES
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657027&extension=ts&play_token=0N09ddPaBT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 6 - DALLAS MAVERICKS AT NEW ORLEANS PELICANS | Thu 30 Jan 01:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657026&extension=ts&play_token=np2cLazbvj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 7 - ORLANDO MAGIC AT PORTLAND TRAIL BLAZERS | Fri 31 Jan 03:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657025&extension=ts&play_token=JTq9Cm6Q2N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 9 - MINNESOTA TIMBERWOLVES AT UTAH JAZZ | Fri 31 Jan 02:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657023&extension=ts&play_token=AWnPHuKkDG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 10 - VASCO X VOLTA REDONDA | Sat 01 Feb 19:05 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657022&extension=ts&play_token=Qae7iRg01K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 11 - LOS ANGELES LAKERS AT WASHINGTON WIZARDS | Fri 31 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657021&extension=ts&play_token=AeWNCS6fz9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 12 - VILLA NOVA AC VS. CLUBE ATLÉTICO MINEIRO | Sat 01 Feb 19:25 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657020&extension=ts&play_token=A7P0SgufH2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 13 - CHICAGO BULLS AT TORONTO RAPTORS | Sat 01 Feb 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657019&extension=ts&play_token=Jzc2IeNcvf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 14 - BOSTON CELTICS AT NEW ORLEANS PELICANS | Sat 01 Feb 01:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657018&extension=ts&play_token=wWPRTxYSeM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 15 - BRAZIL VS. COLOMBIA | Sat 01 Feb 20:41 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657017&extension=ts&play_token=2WjyNOMrik
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 16 - BROOKLYN NETS AT CHARLOTTE HORNETS | Thu 30 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657016&extension=ts&play_token=u8qL5GsKSh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 17 - TORONTO RAPTORS AT WASHINGTON WIZARDS | Thu 30 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657015&extension=ts&play_token=N0RWl9nvDl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 18 - SACRAMENTO KINGS AT PHILADELPHIA 76ERS | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657014&extension=ts&play_token=ujfDnBsQiL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 19 - CAMPEONATO GAUCHO SOCCER : GRÊMIO VS. SÃO LUIZ DE IJUÍ | Sat 01 Feb 19:25 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657013&extension=ts&play_token=4gkH41SdE8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 20 - CHICAGO BULLS AT BOSTON CELTICS | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657012&extension=ts&play_token=KfPlkgXbvF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 21 - CLEVELAND CAVALIERS AT MIAMI HEAT | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657011&extension=ts&play_token=7KjpIJDraD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 22 - FINAL: MINAS X FLAMENGO | Sat 01 Feb 19:35 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657010&extension=ts&play_token=AAZchRyNgA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657009&extension=ts&play_token=CWs8rmiQ6J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657008&extension=ts&play_token=DzR5Lm2GyP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657007&extension=ts&play_token=bA6FePqXlE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657006&extension=ts&play_token=T88BLZw34O
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657005&extension=ts&play_token=DBORuyVaYI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657004&extension=ts&play_token=urkVmxmcie
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657003&extension=ts&play_token=L9TF5fy2NY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657002&extension=ts&play_token=GjQSzIgi7J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657001&extension=ts&play_token=OZIoec9vj0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1657000&extension=ts&play_token=KFDxFuaXCO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656999&extension=ts&play_token=vtzXmRnuMH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656998&extension=ts&play_token=t1E45Y1MAV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656997&extension=ts&play_token=RSGUVkf6Ma
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656996&extension=ts&play_token=Ct06x06gH3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656995&extension=ts&play_token=sf3mQvzQTe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656994&extension=ts&play_token=af7XCmXgtm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656993&extension=ts&play_token=E1Q0SwfmJl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656992&extension=ts&play_token=PE5nRZNYyX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656991&extension=ts&play_token=aAhEVHpzZl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656990&extension=ts&play_token=b4fkaADfnG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656989&extension=ts&play_token=48gTYa07fS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656988&extension=ts&play_token=Iddfq0Ezng
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656987&extension=ts&play_token=v0dortM6N5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656986&extension=ts&play_token=Bsrfd7EtDY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656985&extension=ts&play_token=MMa81JmifH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656984&extension=ts&play_token=nhFdQWsI9o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656983&extension=ts&play_token=yY25a53zAM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV",BR: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1656982&extension=ts&play_token=JA0GiwRc8l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",####### DAZN PPV #######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605741&extension=ts&play_token=njK3R88SpM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605740&extension=ts&play_token=aI0PCISloP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605739&extension=ts&play_token=7ilgH4ZUWQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605738&extension=ts&play_token=7yPFv26uJi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605737&extension=ts&play_token=3Y0GmDOpyS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605736&extension=ts&play_token=2dbYbjdro7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605735&extension=ts&play_token=BFu2rWs9iM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605734&extension=ts&play_token=xlKHBRliV2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605733&extension=ts&play_token=iIYeNavHT2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605732&extension=ts&play_token=UoYrSIkP7q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605731&extension=ts&play_token=WVn0vkqojo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605730&extension=ts&play_token=Zk0VFQ7wrM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605729&extension=ts&play_token=RTT15fgnBO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605728&extension=ts&play_token=5AfDQqpxzK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605727&extension=ts&play_token=wtLSdF0Yoa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605726&extension=ts&play_token=Wkiaz3xS5P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605725&extension=ts&play_token=DJMPSsmvQP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605724&extension=ts&play_token=OCR9W5Ow3A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605723&extension=ts&play_token=7jMnHrjlhR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605722&extension=ts&play_token=iUgq7I9JJw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605721&extension=ts&play_token=UbO4pjHuDf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605720&extension=ts&play_token=mfZpb6LT4F
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605719&extension=ts&play_token=B5ZMv7kmqp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605718&extension=ts&play_token=LiSnAvsAjc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605717&extension=ts&play_token=yzuIMfhDok
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605716&extension=ts&play_token=zCRYg4pPrO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605715&extension=ts&play_token=OJBR7hPDMz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605714&extension=ts&play_token=NxIZJdn5f7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605713&extension=ts&play_token=8Uk0fOugvP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605712&extension=ts&play_token=FiVNU5bISL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605711&extension=ts&play_token=l2DNwdxubZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605710&extension=ts&play_token=zip2F2cODY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605709&extension=ts&play_token=09pjIc8kKk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605708&extension=ts&play_token=NvUNtYmJlD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605707&extension=ts&play_token=wp5k36BJed
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605706&extension=ts&play_token=I5LksXjylN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605705&extension=ts&play_token=sfiqFw8YtV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605704&extension=ts&play_token=BvdF7DlVJw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605703&extension=ts&play_token=jNyNVw4PFT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605702&extension=ts&play_token=OSHCI7mXZW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="BR| BRASIL DAZN PPV",BR: DAZN PPV 40 - NO EVENT STREAMING -
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1605701&extension=ts&play_token=aDyeX4IrxC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",####### ESPN SPORT #######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718752&extension=ts&play_token=In7jbW3x2M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718751&extension=ts&play_token=ETHRN4KB00
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN 2 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718750&extension=ts&play_token=BuWBzUbqAQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN 3 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718749&extension=ts&play_token=LvgzxwrZEg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN 4 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718748&extension=ts&play_token=rnbfQb1lWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN 5 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718747&extension=ts&play_token=LzBneUmVui
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="BR| ESPN/DISNEY+ SPORT",BR| DISNEY+ ESPN 6 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1718746&extension=ts&play_token=XW70LTw6CZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BRASIL.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",##### PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ #####
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689641&extension=ts&play_token=4Tzp03mIXp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIS.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| BIS ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689640&extension=ts&play_token=fnHz4peW0c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BLOOMBERG-TV-BRAZIL.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| BLOOMBERG TV BRAZIL ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689639&extension=ts&play_token=2aXe3JtXwA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-BRASIL.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CANAL BRASIL ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689638&extension=ts&play_token=joBmYwqWQU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 1 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689637&extension=ts&play_token=nGBuaL6pKM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 2 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689636&extension=ts&play_token=i0TDr1hxBr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 3 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689635&extension=ts&play_token=oQuQGaE7Os
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 4 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689634&extension=ts&play_token=9qpbkY9xAW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 5 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689633&extension=ts&play_token=jQ71PHhPIT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV 6 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689632&extension=ts&play_token=kihpbBDvCR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CAZETV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| CAZÉ TV ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689631&extension=ts&play_token=W8otmFvty1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/COMBATE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| COMBATE ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689630&extension=ts&play_token=nook5rD5md
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FUTURA.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| FUTURA ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689629&extension=ts&play_token=ndygXtDWpx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/GLOBONEWS.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| GLOBONEWS ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689628&extension=ts&play_token=bD4WNw8Zot
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/GLOOBINHO.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| GLOOBINHO ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689626&extension=ts&play_token=XXOVn3KHYE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/GLOOB.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| GLOOB ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689627&extension=ts&play_token=6ci02yGoye
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/GNT.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| GNT ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689625&extension=ts&play_token=a7RY36EY1e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MEGAPIX.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| MEGAPIX ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689624&extension=ts&play_token=FoxTv8OToA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MODO-VIAGEM.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| MODO VIAGEM ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689623&extension=ts&play_token=OFUQ7V9b3c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MULTISHOW.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| MULTISHOW ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689622&extension=ts&play_token=nWac00vpzr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/nflnetwork.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| NFL NETWORK  ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689620&extension=ts&play_token=SIMo1WiYTp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-OFF.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| OFF ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689619&extension=ts&play_token=iLNHIGNutu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 2 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689618&extension=ts&play_token=iD3macpFof
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 3 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689616&extension=ts&play_token=XvRGV5AFzt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 4 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689615&extension=ts&play_token=aIRu8rTMVR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 5 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689614&extension=ts&play_token=9O3ZHW6glL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 6 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689613&extension=ts&play_token=SH9QIsIulp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 7 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689612&extension=ts&play_token=pyY62oN6IM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 8 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689611&extension=ts&play_token=OtKu9pRBsi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| PREMIERE 24HS ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689617&extension=ts&play_token=oXpgXGTkuf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| SPOR TV 1 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689610&extension=ts&play_token=F8BcjruZR4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| SPOR TV 2 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689609&extension=ts&play_token=7yx2uegddN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTV.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| SPOR TV 3 ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689608&extension=ts&play_token=OTP7IfqeL6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/studiouniversal.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| STUDIO UNIVERSAL ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689607&extension=ts&play_token=5ZnirP3Ddj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/UNIVERSAL-PREMIERE.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| UNIVERSAL PREMIERE ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689606&extension=ts&play_token=6ajVET19aC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/UNIVERSAL-REALITY.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| UNIVERSAL REALITY ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689605&extension=ts&play_token=9xhaUVh0yV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/UNIVERSAL.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| UNIVERSAL TV ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689604&extension=ts&play_token=5GMYcYBFAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/USA.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| USA ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689603&extension=ts&play_token=Uy5UhjNYsw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/VIVA.png" group-title="BR| PRIME ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",BR| VIVA ᴿᴬᵂ ᵃᵐᶻ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1689602&extension=ts&play_token=teuEuXRmL5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",####### PRIME PPV ᴿᴬᵂ #######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725269&extension=ts&play_token=c0q2RDzd1i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 1 - MINNESOTA TIMBERWOLVES AT PHOENIX SUNS | Thu 30 Jan 02:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725268&extension=ts&play_token=kmLQbMCJS8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 2 - LA CLIPPERS AT CHARLOTTE HORNETS | Sat 01 Feb 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725267&extension=ts&play_token=G5aiy17aWJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 3 - HOUSTON ROCKETS AT MEMPHIS GRIZZLIES | Fri 31 Jan 02:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725266&extension=ts&play_token=U2gclHh6KL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 4 - ETAPA DE PIPELINE | Wed 29 Jan 22:46 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725265&extension=ts&play_token=aU6NpQgfjk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725264&extension=ts&play_token=ohpKQ71YE5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 6 - DALLAS MAVERICKS AT NEW ORLEANS PELICANS | Thu 30 Jan 01:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725263&extension=ts&play_token=W9bV0HhACv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 7 - ORLANDO MAGIC AT PORTLAND TRAIL BLAZERS | Fri 31 Jan 03:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725262&extension=ts&play_token=ugTOevp9Gj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 8 - PHOENIX SUNS AT GOLDEN STATE WARRIORS | Sat 01 Feb 03:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725261&extension=ts&play_token=gbKMEYCWrR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 9 - MINNESOTA TIMBERWOLVES AT UTAH JAZZ | Fri 31 Jan 02:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725260&extension=ts&play_token=mvViL2Z7H9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 10 - VASCO X VOLTA REDONDA | Sat 01 Feb 19:05 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725259&extension=ts&play_token=YA2KTBuyaI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 11 - LOS ANGELES LAKERS AT WASHINGTON WIZARDS | Fri 31 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725258&extension=ts&play_token=Sl2JkfwUqQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 12 - VILLA NOVA AC VS. CLUBE ATLÉTICO MINEIRO | Sat 01 Feb 19:25 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725257&extension=ts&play_token=MsRNB6z0FJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 13 - CHICAGO BULLS AT TORONTO RAPTORS | Sat 01 Feb 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725256&extension=ts&play_token=wpg7ZKyA00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 14 - BOSTON CELTICS AT NEW ORLEANS PELICANS | Sat 01 Feb 01:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725255&extension=ts&play_token=RZqLZryZYc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 15 - BRAZIL VS. COLOMBIA | Sat 01 Feb 20:41 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725254&extension=ts&play_token=tRyrAPzpt0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 16 - BROOKLYN NETS AT CHARLOTTE HORNETS | Thu 30 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725253&extension=ts&play_token=8NCUpib3ug
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 17 - TORONTO RAPTORS AT WASHINGTON WIZARDS | Thu 30 Jan 00:00 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725252&extension=ts&play_token=aHuDGzJnGj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 18 - SACRAMENTO KINGS AT PHILADELPHIA 76ERS | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725251&extension=ts&play_token=nAaQggQYYH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 19 - CAMPEONATO GAUCHO SOCCER : GRÊMIO VS. SÃO LUIZ DE IJUÍ | Sat 01 Feb 19:25 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725250&extension=ts&play_token=6QfaKl2LQ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 20 - CHICAGO BULLS AT BOSTON CELTICS | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725249&extension=ts&play_token=I7JkjM43HM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 21 - CLEVELAND CAVALIERS AT MIAMI HEAT | Thu 30 Jan 00:30 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725248&extension=ts&play_token=LOxGs4vlYS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 22 - FINAL: MINAS X FLAMENGO | Sat 01 Feb 19:35 | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725247&extension=ts&play_token=CkY5j1vxRe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725246&extension=ts&play_token=rXCKmhm4uP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725245&extension=ts&play_token=IVkYlwCVkI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725244&extension=ts&play_token=rcmeBvmlkT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725243&extension=ts&play_token=yg9ejEUdDE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725242&extension=ts&play_token=meXgjppGZi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725241&extension=ts&play_token=jGzk2eyjFS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725240&extension=ts&play_token=xr2pyzg0DV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725239&extension=ts&play_token=gLtwcy5Ka9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725238&extension=ts&play_token=e3p2vmimus
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725237&extension=ts&play_token=TuxWslNLfO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725236&extension=ts&play_token=gpCvrc1csc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725235&extension=ts&play_token=Z1GZSLCSCB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725234&extension=ts&play_token=fOtZ98RgpT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725233&extension=ts&play_token=TfzFm1Kf5z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725232&extension=ts&play_token=1A72rNcTM8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725231&extension=ts&play_token=nxpWzxg0wO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725230&extension=ts&play_token=FHigQM42xr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725229&extension=ts&play_token=moy1B7bkm7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725228&extension=ts&play_token=77XIkC6lJU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725227&extension=ts&play_token=kGexzvjoFL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725226&extension=ts&play_token=ksicqBUZYb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725225&extension=ts&play_token=ojA3b5NCXb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725224&extension=ts&play_token=K0xEThJnzq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725223&extension=ts&play_token=rGqfyaTxoS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725222&extension=ts&play_token=hbVqQBMUkI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725221&extension=ts&play_token=ZDkOCYuwQG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725220&extension=ts&play_token=eET7z4yLVG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="BR| PRIME PPV ᴿᴬᵂ",BR: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1725219&extension=ts&play_token=6hS9KxDyJB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",####### MAX PPV #######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691945&extension=ts&play_token=MtNErDGJ8Z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691944&extension=ts&play_token=n5NdddOj2J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691943&extension=ts&play_token=mBLGzLby2Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691942&extension=ts&play_token=GPFgW3Vwhv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691941&extension=ts&play_token=yUybOtTZuE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691940&extension=ts&play_token=FCp7RfkA7U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691939&extension=ts&play_token=nv39qLqYz5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691938&extension=ts&play_token=qVbj0W6Z34
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691937&extension=ts&play_token=B1SYBlNtbg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691936&extension=ts&play_token=XU2Sbhi5xX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691935&extension=ts&play_token=fJRZtfTT8g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691934&extension=ts&play_token=VoUY7kxru5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691933&extension=ts&play_token=NE7Ejn1ZPK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691932&extension=ts&play_token=XMx3wvXGLj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691931&extension=ts&play_token=NqSDN01vDh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691930&extension=ts&play_token=Z85di3XULz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691929&extension=ts&play_token=ZPh2gqhqzK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691928&extension=ts&play_token=rV5cA2Elej
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691927&extension=ts&play_token=OzmAcPMUSq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691926&extension=ts&play_token=BAR4DO9XFw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691925&extension=ts&play_token=0sR2UqzbvF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691924&extension=ts&play_token=dfeyBAG4cO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691923&extension=ts&play_token=AyPCOM1ZgN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691922&extension=ts&play_token=GPr5anAUU5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691921&extension=ts&play_token=edioe5WSKi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691920&extension=ts&play_token=50sJA1PSW6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691919&extension=ts&play_token=rZdRJ5XZFu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691918&extension=ts&play_token=QMfAsI4z5L
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691917&extension=ts&play_token=kwzMqtnkRi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691916&extension=ts&play_token=WjlktE7b4P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691915&extension=ts&play_token=yHBtfcc88x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691914&extension=ts&play_token=ep1J7VtLSU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691913&extension=ts&play_token=tA6RkODCcG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691912&extension=ts&play_token=OvhQCDF78i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691911&extension=ts&play_token=171qBozRoR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691910&extension=ts&play_token=rhBRFFVEvk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691909&extension=ts&play_token=pHmcZcpfkq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691908&extension=ts&play_token=ubwtKxRiAC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691907&extension=ts&play_token=XbSwQjKNe0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691906&extension=ts&play_token=WM2eCsHJQB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691905&extension=ts&play_token=3UNrNcGR2M
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691904&extension=ts&play_token=ShctgvXYWj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691903&extension=ts&play_token=teUkYtbD53
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691902&extension=ts&play_token=IW01XVwUhA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691901&extension=ts&play_token=LR0XtCykWi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691900&extension=ts&play_token=aXgx47oWhI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691899&extension=ts&play_token=kR6RSdLiOM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691898&extension=ts&play_token=NiESektYdK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691897&extension=ts&play_token=xN2O9yd1GV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691896&extension=ts&play_token=pyPXbG1dVF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="BR| MAX PPV",BR: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1691895&extension=ts&play_token=01j4RGQBnN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BRASIL.png" group-title="BR| ZAPPING VIP",###### ZAPPING VIP ######
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732477&extension=ts&play_token=Lec1i5Kvij
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/AGRO-CANAL.png" group-title="BR| ZAPPING VIP",ZP| AGRO CANAL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732476&extension=ts&play_token=rtk3j5Mdvk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/AGRO-MAIS.png" group-title="BR| ZAPPING VIP",ZP| AGRO MAIS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732475&extension=ts&play_token=hVNOhtaLGX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/AGRO-PLUS.png" group-title="BR| ZAPPING VIP",ZP| AGRO PLUS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732474&extension=ts&play_token=h2tY7LhwTP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/amc.png" group-title="BR| ZAPPING VIP",ZP| AMC ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732473&extension=ts&play_token=aKxonpL6KO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/animalplanet.png" group-title="BR| ZAPPING VIP",ZP| ANIMAL PLANET ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732472&extension=ts&play_token=VJ8TCsJjEr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ARTE1.png" group-title="BR| ZAPPING VIP",ZP| ARTE 1 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732471&extension=ts&play_token=Cnb3lAbHDB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BAND-NEWS.png" group-title="BR| ZAPPING VIP",ZP| BAND NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732470&extension=ts&play_token=Is1bxg5kJV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BAND.png" group-title="BR| ZAPPING VIP",ZP| BAND ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732469&extension=ts&play_token=EO2otQVBpq
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/bbcnews.png" group-title="BR| ZAPPING VIP",ZP| BBC NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732468&extension=ts&play_token=IEXqSTecM2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BIS.png" group-title="BR| ZAPPING VIP",ZP| BIS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732467&extension=ts&play_token=O7TZxfiN5t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BMC-NEWS.png" group-title="BR| ZAPPING VIP",ZP| BM&C NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732466&extension=ts&play_token=aLq0zPs9uH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BOA-VONTADE.png" group-title="BR| ZAPPING VIP",ZP| BOA VONTADE TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732465&extension=ts&play_token=se45Znp1gJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/C3TV.png" group-title="BR| ZAPPING VIP",ZP| C3 TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732464&extension=ts&play_token=S5LRNdXvH3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CANAL-BRASIL.png" group-title="BR| ZAPPING VIP",ZP| CANAL BRASIL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732463&extension=ts&play_token=1IwKNzaEn4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANAL-DO-BOI.png" group-title="BR| ZAPPING VIP",ZP| CANAL DO BOI ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732462&extension=ts&play_token=mY2yi4d1Ol
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANAL-EDUCACAO.png" group-title="BR| ZAPPING VIP",ZP| CANAL EDUCAÇÃO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732461&extension=ts&play_token=wtmt9kVbor
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANAL-GOV.png" group-title="BR| ZAPPING VIP",ZP| CANAL GOV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732460&extension=ts&play_token=kVj8S1vTVb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANAL-OFF.png" group-title="BR| ZAPPING VIP",ZP| CANAL OFF ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732459&extension=ts&play_token=onqgUtMBjG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANAL-SOLO-FERTIL.png" group-title="BR| ZAPPING VIP",ZP| CANAL SOLO FÉRTIL  ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732458&extension=ts&play_token=Ch1YZRptQU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CANCAO-NOVA.png" group-title="BR| ZAPPING VIP",ZP| CANÇÃO NOVA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732457&extension=ts&play_token=kyzCXDDFlU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CENTRAL.png" group-title="BR| ZAPPING VIP",ZP| CENTRAL TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732456&extension=ts&play_token=GKOhczJTyi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CNN-BRASIL.png" group-title="BR| ZAPPING VIP",ZP| CNN BRASIL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732455&extension=ts&play_token=1D8LK10uFC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/CNN-MONEY.png" group-title="BR| ZAPPING VIP",ZP| CNN MONEY ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732454&extension=ts&play_token=XZBKIsTrBa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/COMBATE.png" group-title="BR| ZAPPING VIP",ZP| COMBATE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732453&extension=ts&play_token=GB6koO7Qf5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoverychannel.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY CHANNEL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732452&extension=ts&play_token=I0CGc4ZsU6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DISCOVERY-KIDS.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY KIDS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732451&extension=ts&play_token=9rl5vFYAqy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoveryscience.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY SCIENCE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732450&extension=ts&play_token=qmhZBDcwiK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-THEATER.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY THEATER ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732449&extension=ts&play_token=VJLaKsymsX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoveryturbo.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY TURBO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732448&extension=ts&play_token=8b9whkSyUS
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/discoveryworld.png" group-title="BR| ZAPPING VIP",ZP| DISCOVERY WORLD ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732447&extension=ts&play_token=QI6W8Nr9yr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/disneychannel.png" group-title="BR| ZAPPING VIP",ZP| DISNEY CHANNEL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732446&extension=ts&play_token=UcNS8nkB0l
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/dw.png" group-title="BR| ZAPPING VIP",ZP| DW ESPAÑOL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732445&extension=ts&play_token=wvzpi9Bmcb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurochannel.png" group-title="BR| ZAPPING VIP",ZP| EURO CHANNEL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732444&extension=ts&play_token=n2319WSfGq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/FILM-ARTS.png" group-title="BR| ZAPPING VIP",ZP| FILM & ARTS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732443&extension=ts&play_token=uETg3AA4PF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/foodnetwork.png" group-title="BR| ZAPPING VIP",ZP| FOOD NETWORK ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732442&extension=ts&play_token=kkaZ3QW02h
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/foxnews.png" group-title="BR| ZAPPING VIP",ZP| FOX NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732441&extension=ts&play_token=MPn79pV22P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/FUTURA.png" group-title="BR| ZAPPING VIP",ZP| FUTURA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732440&extension=ts&play_token=R0XirHPoCm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/globonews.png" group-title="BR| ZAPPING VIP",ZP| GLOBO NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732439&extension=ts&play_token=WydAM33jPl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/GLOOBINHO.png" group-title="BR| ZAPPING VIP",ZP| GLOOBINHO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732438&extension=ts&play_token=WGtr9yM4at
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/GLOOB.png" group-title="BR| ZAPPING VIP",ZP| GLOOB ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732437&extension=ts&play_token=xf2ZcJJ3Zn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/GNT.png" group-title="BR| ZAPPING VIP",ZP| GNT ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732436&extension=ts&play_token=Sbj2ITX2Zc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/hgtv.png" group-title="BR| ZAPPING VIP",ZP| HG TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732435&extension=ts&play_token=qBG4L37UxS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/HOME-HEALTH.png" group-title="BR| ZAPPING VIP",ZP| HOME & HEALTH ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732434&extension=ts&play_token=DEg3r57wll
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/iddiscovery.png" group-title="BR| ZAPPING VIP",ZP| INVESTIGAÇÃO DISCOVERY ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732433&extension=ts&play_token=qbmgyOAU6b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ISTV.png" group-title="BR| ZAPPING VIP",ZP| IS TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732432&extension=ts&play_token=8RyfM6txyD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/JOVEM-PAN-NEWS.png" group-title="BR| ZAPPING VIP",ZP| JOVEM PAN NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732431&extension=ts&play_token=7u9EHxFiMA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/LAS-ESTRELLAS.png" group-title="BR| ZAPPING VIP",ZP| LAS ESTRELLAS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732430&extension=ts&play_token=xdB62NRYXf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/MEGAPIX.png" group-title="BR| ZAPPING VIP",ZP| MEGAPIX ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732429&extension=ts&play_token=cRPV6D7odh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MODO-VIAGEM.png" group-title="BR| ZAPPING VIP",ZP| MODO VIAGEM ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732428&extension=ts&play_token=ldihy3MxMx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MULTISHOW.png" group-title="BR| ZAPPING VIP",ZP| MULTI SHOW ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732427&extension=ts&play_token=UwwFoRYd92
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/NEW-BRASIL.png" group-title="BR| ZAPPING VIP",ZP| NEW BRASIL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732426&extension=ts&play_token=Br7ENuFVuB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PIXTV.png" group-title="BR| ZAPPING VIP",ZP| PIX TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732425&extension=ts&play_token=dqMMlrPVFO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PLAY.png" group-title="BR| ZAPPING VIP",ZP| PLAY TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732424&extension=ts&play_token=IPnBfsB41O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/raiitalia.png" group-title="BR| ZAPPING VIP",ZP| RAI ITALIA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732423&extension=ts&play_token=4B0yUpsGHI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/RBTV.png" group-title="BR| ZAPPING VIP",ZP| RBTV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732422&extension=ts&play_token=othUC78NzW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/RE-CORD-NEW.png" group-title="BR| ZAPPING VIP",ZP| RE CORD NEWS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732421&extension=ts&play_token=S0UnkB5coy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/recordtvhd.png" group-title="BR| ZAPPING VIP",ZP| RE CORD ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732420&extension=ts&play_token=CE5k2eV8Cy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-CNT.png" group-title="BR| ZAPPING VIP",ZP| REDE CNT ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732419&extension=ts&play_token=4B6webylYd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-GOSPEL.png" group-title="BR| ZAPPING VIP",ZP| REDE GOSPEL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732418&extension=ts&play_token=aOxLyYK5ut
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-MAIS-FAMILIA.png" group-title="BR| ZAPPING VIP",ZP| REDE MAIS FAMILIA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732417&extension=ts&play_token=6WoKpohg13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-NOVO-TEMPO.png" group-title="BR| ZAPPING VIP",ZP| REDE NOVO TEMPO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732416&extension=ts&play_token=63JDTaAckD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-SECULO-21.png" group-title="BR| ZAPPING VIP",ZP| REDE SÉCULO 21 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732415&extension=ts&play_token=PQIojFeRDQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-TV.png" group-title="BR| ZAPPING VIP",ZP| REDE TV! ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732414&extension=ts&play_token=CFVsCQSjx6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/RFTV.png" group-title="BR| ZAPPING VIP",ZP| RF TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732413&extension=ts&play_token=r8WTcLwOhc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/RITTV.png" group-title="BR| ZAPPING VIP",ZP| RIT TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732412&extension=ts&play_token=4BFKhkbCyo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SABOR-ARTE.png" group-title="BR| ZAPPING VIP",ZP| SABOR & ARTE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732411&extension=ts&play_token=TToXPqbY8E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SBT.png" group-title="BR| ZAPPING VIP",ZP| SBT ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732410&extension=ts&play_token=zQuVBKdDsB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SESC.png" group-title="BR| ZAPPING VIP",ZP| SESC TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732409&extension=ts&play_token=SbQLmjFjdm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/STUDIO-UNIVERSAL.png" group-title="BR| ZAPPING VIP",ZP| STUDIO UNIVERSAL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732408&extension=ts&play_token=Sm7yUkVhgI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TBC.png" group-title="BR| ZAPPING VIP",ZP| TBC ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732407&extension=ts&play_token=vCmr4BCt3T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE ACTION ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732406&extension=ts&play_token=vqUt7fYh7E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE CULT ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732405&extension=ts&play_token=gqka4uSt8x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE FUN  ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732404&extension=ts&play_token=tMwIgAKwjd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE PIPOCA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732403&extension=ts&play_token=uQOeT8OPn7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE PREMIUM ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732402&extension=ts&play_token=gaIA3RglGn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BR| ZAPPING VIP",ZP| TELECINE TOUCH ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732401&extension=ts&play_token=pVKvTDiHrR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TERRA-VIVA.png" group-title="BR| ZAPPING VIP",ZP| TERRA VIVA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732400&extension=ts&play_token=TFjJsjR0DN
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cnbc.png" group-title="BR| ZAPPING VIP",ZP| TIMES BRASIL | CNBC ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732399&extension=ts&play_token=ImnAfpsHAl
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tlc.png" group-title="BR| ZAPPING VIP",ZP| TLC ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732398&extension=ts&play_token=ilqZhNSoaF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tv5monde.png" group-title="BR| ZAPPING VIP",ZP| TV5 MONDE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732397&extension=ts&play_token=me8KhSgZEG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-APARECIDA.png" group-title="BR| ZAPPING VIP",ZP| TV APARECIDA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732396&extension=ts&play_token=1ktZZmQcmm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TVBRASIL.png" group-title="BR| ZAPPING VIP",ZP| TV BRASIL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732395&extension=ts&play_token=n3HmpoBd31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-CULTURA.png" group-title="BR| ZAPPING VIP",ZP| TV CULTURA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732394&extension=ts&play_token=Zy024kRt0A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-CAMARA.png" group-title="BR| ZAPPING VIP",ZP| TV CÂMARA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732393&extension=ts&play_token=bfrphtfpdr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-EVANGELIZAR.png" group-title="BR| ZAPPING VIP",ZP| TV EVANGELIZAR ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732392&extension=ts&play_token=BszkZlDPH9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-GAZETA.png" group-title="BR| ZAPPING VIP",ZP| TV GAZETA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732391&extension=ts&play_token=sj3E8OvMyz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tvglobo.png" group-title="BR| ZAPPING VIP",ZP| TV GLOBO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732390&extension=ts&play_token=Ef1Fweibea
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-JUSTICA.png" group-title="BR| ZAPPING VIP",ZP| TV JUSTIÇA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732389&extension=ts&play_token=iyi2zk0poy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-PAI-ETERNO.png" group-title="BR| ZAPPING VIP",ZP| TV PAI ETERNO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732388&extension=ts&play_token=ntDRKN0VhU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-SENADO.png" group-title="BR| ZAPPING VIP",ZP| TV SENADO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732387&extension=ts&play_token=Z9sS7xqBgt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/universal.png" group-title="BR| ZAPPING VIP",ZP| UNIVERSAL TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732386&extension=ts&play_token=0NyXREo8aR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/Univision.png" group-title="BR| ZAPPING VIP",ZP| UNIVISIÓN ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732385&extension=ts&play_token=KAj9EYbiPp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/UOL.png" group-title="BR| ZAPPING VIP",ZP| UOL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732384&extension=ts&play_token=MT7QBDzSJ4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/usanetwork.png" group-title="BR| ZAPPING VIP",ZP| USA NETWORK ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732383&extension=ts&play_token=TkRtj62ufj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/viva.png" group-title="BR| ZAPPING VIP",ZP| VIVA ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732382&extension=ts&play_token=ZAYPc2eiuk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/WOOHOO.png" group-title="BR| ZAPPING VIP",ZP| WOOHOO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732381&extension=ts&play_token=W0rNAzD67i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC CLASSICS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732380&extension=ts&play_token=T07vVT7TCb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC HITS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732379&extension=ts&play_token=QC316XVdQD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC INDIE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732378&extension=ts&play_token=8vvrlu2M3D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC LOFI ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732377&extension=ts&play_token=NpDryDuIbB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC MPB ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732376&extension=ts&play_token=vy8dJ239FC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC PUNCH ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732375&extension=ts&play_token=uqR9fM2jr2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC RETRO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732374&extension=ts&play_token=aKnSDEQ7TS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC ROCK ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732373&extension=ts&play_token=gxEYjnVY8Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC SAMBA E PAGODE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732372&extension=ts&play_token=FIF95jX1OY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC SERTANEJO ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732371&extension=ts&play_token=eRLb4tGror
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC SOFT POP ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732370&extension=ts&play_token=0Q6kyxCAw9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC URBAN BRASIL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732369&extension=ts&play_token=2pMktqkVMh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-MUSIC.png" group-title="BR| ZAPPING VIP",ZP| ZAPPING MUSIC UWU ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732368&extension=ts&play_token=IQO64w8Smw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZOOMOO-KIDS.png" group-title="BR| ZAPPING VIP",ZP| ZOOMOO KIDS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732367&extension=ts&play_token=EdjfZGS5Ru
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BRASIL.png" group-title="BR| ZAPPING SPORT VIP",##### ZAPPING SPORT VIP #####
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732500&extension=ts&play_token=s5Xx7vtz7a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZAPPING-SPORTS.png" group-title="BR| ZAPPING SPORT VIP",ZP| ZAPPING SPORTS 1 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732499&extension=ts&play_token=PHMwKBdiiG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/espn.png" group-title="BR| ZAPPING SPORT VIP",ZP| ESPN ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732498&extension=ts&play_token=IRifKRmrDG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/espn2.png" group-title="BR| ZAPPING SPORT VIP",ZP| ESPN 2 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732497&extension=ts&play_token=5imyMuujzx
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/espn3.png" group-title="BR| ZAPPING SPORT VIP",ZP| ESPN 3 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732496&extension=ts&play_token=bZWurvVHgi
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/espn6.png" group-title="BR| ZAPPING SPORT VIP",ZP| ESPN 6 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732495&extension=ts&play_token=YFMg6hzOZ3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BR| ZAPPING SPORT VIP",ZP| NOSSO FUTEBOL ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732494&extension=ts&play_token=XCm1axvSdj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BR| ZAPPING SPORT VIP",ZP| NOSSO FUTEBOL +1 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732493&extension=ts&play_token=wg1be2G84K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BR| ZAPPING SPORT VIP",ZP| NOSSO FUTEBOL +2 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732492&extension=ts&play_token=C5noX1nlRK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BR| ZAPPING SPORT VIP",ZP| NOSSO FUTEBOL +3 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732491&extension=ts&play_token=PC7eze3jZV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732490&extension=ts&play_token=Mns3jdr2Pr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 2 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732489&extension=ts&play_token=sgyHtQjwjv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 3 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732488&extension=ts&play_token=sxj3RrYAcX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 4 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732487&extension=ts&play_token=SY7xnwlbf3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 5 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732486&extension=ts&play_token=COwFzNlfLs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 6 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732485&extension=ts&play_token=2NIKbYQjSR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 7 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732484&extension=ts&play_token=fPOxpNpKVR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/PREMIERE.png" group-title="BR| ZAPPING SPORT VIP",ZP| PREMIERE 8 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732483&extension=ts&play_token=i09seZBfA9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SPORT-TV.png" group-title="BR| ZAPPING SPORT VIP",ZP| SPOR TV ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732482&extension=ts&play_token=Jdej62r8u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SPOR-TV-2.png" group-title="BR| ZAPPING SPORT VIP",ZP| SPOR TV 2 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732481&extension=ts&play_token=yTgILHBL0N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SPOR-TV-3.png" group-title="BR| ZAPPING SPORT VIP",ZP| SPOR TV 3 ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732480&extension=ts&play_token=MYKskmeCNg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/BAND-SPORTS.png" group-title="BR| ZAPPING SPORT VIP",ZP| BAND SPORTS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732479&extension=ts&play_token=xx09zfajNr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/N-SPORTS.png" group-title="BR| ZAPPING SPORT VIP",ZP| N SPORTS ᴴᴰ
+http://mag.yo-ott.com:80/play/live.php?mac=00:1A:79:DE:C5:CD&stream=1732478&extension=ts&play_token=kouTlUuiO2
