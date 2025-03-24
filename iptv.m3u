@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+# BRASIL
+
+#EXTINF:-1 group-title="BRASIL" tvg-id="GLOBO NEWS" tvg-logo="http://go4.pw/AMERICA/BRASIL/GLOBO-NEWSHD-1.png",GLOBO NEWS
+http://upstg.xyz/get.php?username=155630435&password=269317234&type=m3u_plus&output=mpegts
