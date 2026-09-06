@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-name="Blumenau - Rio Itajai-açu" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Blumenau - Rio Itajai-Açu
+https://5a8d73edc0407.streamlock.net/bnutv20/bnutv2004.stream/chunklist_w667057629.m3u8
+#EXTINF:-1 tvg-name="Pomerode - Alles Park" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Pomerode - Alles Park
+https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20004.stream/chunklist_w820352034.m3u8
+#EXTINF:-1 tvg-name="Garopaba - Praia" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Garopaba - Praia
+https://play.livebybit.com/v2/hls/e23d17107c84e409505b.m3u8
+#EXTINF:-1 tvg-name="Laguna - Centro 1" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Laguna - Centro 1
+https://stream.conexaodctv.com.br/live/laguna_centro2/index.m3u8
+#EXTINF:-1 tvg-name="Laguna - Centro 2" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Laguna - Centro 2
+https://stream.conexaodctv.com.br/live/laguna_centro1/index.m3u8
+#EXTINF:-1 tvg-name="Laguna - Anita" tvg-logo="http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg" group-title="LiveCams | Cameras",Laguna - Anita
+https://stream.conexaodctv.com.br/live/laguna_rodo1/index.m3u8
